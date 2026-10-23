@@ -2,26 +2,28 @@
 
 ## 📌 Project Overview
 
-This project demonstrates practical **Agile Business Analysis** skills through the planning and management of an e-commerce product returns feature using Jira. It focuses on creating user stories, defining acceptance criteria, prioritising requirements, estimating effort, and organising work within a sprint.
+This project demonstrates practical **Agile Business Analysis** skills through the planning and management of an e-commerce product returns feature using Jira.
+
+The project focuses on creating user stories, defining acceptance criteria, prioritising requirements, estimating effort, and organising work within a sprint.
 
 ## 🎯 Project Objectives
 
 - 📝 Translate business requirements into clear user stories.
 - ✅ Define acceptance criteria using the **Given–When–Then (Gherkin)** format.
 - 🎯 Prioritise requirements using the **MoSCoW prioritisation** technique.
-- 📊 Estimate story effort using story points.
-- 🔄 Organise and manage work using a Jira backlog and sprint board.
-- 📂 Document requirements and maintain supporting project evidence.
+- 📊 Estimate effort using story points.
+- 🔄 Organise work using a Jira backlog and sprint board.
+- 📂 Document requirements and maintain project evidence.
 
 ## 🛠️ Tools & Technologies
 
 - 🔵 **Jira Software** – User story management, backlog organisation, sprint planning, and workflow tracking.
-- 📊 **Microsoft Excel** – Documentation of user stories, acceptance criteria, sprint planning details, and Jira screenshots.
-- 🐙 **GitHub** – Project documentation, version control, and portfolio presentation.
+- 📊 **Microsoft Excel** – Documentation of user stories, acceptance criteria, prioritisation, sprint planning, and Jira screenshots.
+- 🐙 **GitHub** – Project documentation and portfolio presentation.
 
 ## 📋 Project Scope
 
-The project covers **8 user stories** for an e-commerce returns feature under the Jira epic **Returns Feature – Q1**.
+The project includes **8 user stories** under the Jira epic **Returns Feature – Q1**.
 
 ### 🛒 Features Covered
 
@@ -34,7 +36,7 @@ The project covers **8 user stories** for an e-commerce returns feature under th
 7. ❌ Cancelling a return request.
 8. 🔔 Receiving notifications when return status changes.
 
-## 🎯 Agile Prioritisation & Estimation
+## 🎯 MoSCoW Prioritisation & Story Points
 
 The user stories were prioritised using the **MoSCoW method**.
 
@@ -50,24 +52,30 @@ The four Must Have stories were included in **Sprint 1**, with a combined estima
 
 Acceptance criteria define the conditions that must be satisfied for a user story to meet its requirements.
 
-This project uses **Given–When–Then (Gherkin)** to describe expected system behaviour, improve requirement clarity, and support validation.
+This project uses **Given–When–Then (Gherkin)** to describe expected system behaviour, clarify requirements, and support validation.
 
 ## 🔄 Jira Implementation
 
-The Jira project includes:
+The project was organised in Jira using the following components:
 
-- 🗂️ An epic named **Returns Feature – Q1**.
-- 📝 Eight user stories with associated priority labels.
-- 📊 Story point estimates for prioritised work.
-- 📋 A product backlog containing planned work.
+- 🗂️ Epic: **Returns Feature – Q1**
+- 📝 Eight user stories with priority labels.
+- 📊 Story point estimates for prioritised stories.
+- 📋 Product backlog containing planned work.
 - 🏃 Sprint 1 containing the four Must Have stories.
-- 🔄 Workflow columns for tracking work through stages such as **To Do, In Progress, In Review, and Done**.
+- 🔄 Workflow board with stages including To Do, In Progress, In Review, and Done.
 
-## 📁 Project Deliverables
+## 📂 Project Documentation
 
-- 📊 Excel workbook documenting user stories and acceptance criteria.
-- 📸 Jira screenshots showing the backlog and board configuration.
-- 🗒️ Documentation of MoSCoW prioritisation and sprint planning.
+📊 **[View and Download the Excel Project Workbook](./Project_05_Returns_Feature_Q1.xlsx)**
+
+The workbook contains:
+
+- 📝 User stories and their descriptions.
+- ✅ Acceptance criteria.
+- 🎯 MoSCoW priorities and story points.
+- 🏃 Sprint planning details.
+- 📸 Jira screenshots documenting the backlog and board.
 
 ## 💡 Key Skills Demonstrated
 
@@ -82,21 +90,8 @@ The Jira project includes:
 - 🔹 Jira workflow management
 - 🔹 Business requirements documentation
 
-## 📂 Repository Structure
-
-```text
-returns-feature-agile-business-analysis/
-│
-├── README.md
-├── Project_05_Returns_Feature_Q1.xlsx
-└── screenshots/
-    ├── jira-backlog.png
-    ├── jira-sprint-board.png
-    └── jira-workflow-board.png
-```
-
 ## 🏁 Conclusion
 
-This project demonstrates the practical application of Agile Business Analysis techniques to an e-commerce returns feature. It provides evidence of requirements documentation, user story development, prioritisation, effort estimation, and sprint planning using Jira.
+This project demonstrates the practical application of Agile Business Analysis techniques to an e-commerce returns feature. It showcases hands-on experience in requirements documentation, user story development, prioritisation, effort estimation, and sprint planning using Jira.
 
 🚀 *A portfolio project demonstrating practical Agile Business Analyst skills through hands-on project work.*
